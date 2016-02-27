@@ -29,6 +29,10 @@ gem 'devise'
 gem 'simple_form'
 #For creating forms
 
+gem 'bootstrap-sass', '~> 3.3.6'
+
+#Gem for installing bootstrap
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
