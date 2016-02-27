@@ -33,6 +33,9 @@ gem 'bootstrap-sass', '~> 3.3.6'
 
 #Gem for installing bootstrap
 
+gem 'datetimepicker-rails', github: 'zpaulovics/datetimepicker-rails', branch: 'master', submodules: true
+#datetimepicker gem
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

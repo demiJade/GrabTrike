@@ -16,3 +16,10 @@
 //= require_tree .
 //= require jquery
 //= require bootstrap-sprockets
+
+//= require moment
+//= require bootstrap-datetimepicker
+//= require pickers
+
+// You may include any languages (optional)
+//= require moment/<your locale>
