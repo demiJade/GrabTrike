@@ -1,4 +1,15 @@
 Rails.application.routes.draw do
+  get 'requests/index'
+
+  get 'requests/new'
+
+  get 'requests/edit'
+
+  get 'requests/show'
+
+  get 'requests/destroy'
+
+  devise_for :customers
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

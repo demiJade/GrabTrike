@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number_of_riders: MyString
+  drop_off: MyString
+  pick_up: MyString
+  time_requested: 2016-02-27 22:23:53
+  pick_up_time: 2016-02-27 22:23:53
+
+two:
+  number_of_riders: MyString
+  drop_off: MyString
+  pick_up: MyString
+  time_requested: 2016-02-27 22:23:53
+  pick_up_time: 2016-02-27 22:23:53
